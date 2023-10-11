@@ -38,13 +38,13 @@ ChatGPT注册教程（完整指南）：[ChatGPT注册教程](https://github.com
 
 ## Faston - 全专线高端机场
 
-[Faston](https://console.fs-in.com/#/register?code=hg7Xtuoe)是一家运营在加拿大的高端机场，采用IEPL专线，避免长城墙的干扰，具有极高的稳定性，即使在特殊时期也能保持高速稳定，高峰期表现尤为优异，网速领跑同类机场。此外，Faston机场提供50+全球边缘节点，节点丰富。经过一段时间的使用，我认为Faston机场非常出色。最近，Faston机场推出了很多优惠活动，**性价比已经超过了90%的同类机场。**
+[Faston](https://console.fs-site.com/#/register?code=hg7Xtuoe)是一家运营在加拿大的高端机场，采用IEPL专线，避免长城墙的干扰，具有极高的稳定性，即使在特殊时期也能保持高速稳定，高峰期表现尤为优异，网速领跑同类机场。此外，Faston机场提供50+全球边缘节点，节点丰富。经过一段时间的使用，我认为Faston机场非常出色。最近，Faston机场推出了很多优惠活动，**性价比已经超过了90%的同类机场。**
 
 **经过这段时间的测试使用，他家的节点上可以完美注册登录ChatGPT的，大家可以放心订阅。**
 
 #### 通过下面链接注册新用户全员七五折优惠券：
 
-### [Faston 官网链接](https://console.fs-in.com/#/register?code=hg7Xtuoe)
+### [Faston 官网链接](https://console.fs-site.com/#/register?code=hg7Xtuoe)
 
 - 老板肉身：加拿大
 - 入口ip数量：华为云BGP入口
