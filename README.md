@@ -38,13 +38,13 @@ ChatGPT注册教程（完整指南）：[ChatGPT注册教程](https://github.com
 
 ## Faston - 全专线高端机场
 
-[Faston](https://console.fst-in.com/#/register?code=hg7Xtuoe)是一家运营在加拿大的高端机场，采用IEPL专线，避免长城墙的干扰，具有极高的稳定性，即使在特殊时期也能保持高速稳定，高峰期表现尤为优异，网速领跑同类机场。此外，Faston机场提供50+全球边缘节点，节点丰富。经过一段时间的使用，我认为Faston机场非常出色。最近，Faston机场推出了很多优惠活动，**性价比已经超过了90%的同类机场。**
+[Faston](https://portal.link-fst.com/#/register?code=hg7Xtuoe)是一家运营在加拿大的高端机场，采用IEPL专线，避免长城墙的干扰，具有极高的稳定性，即使在特殊时期也能保持高速稳定，高峰期表现尤为优异，网速领跑同类机场。此外，Faston机场提供50+全球边缘节点，节点丰富。经过一段时间的使用，我认为Faston机场非常出色。最近，Faston机场推出了很多优惠活动，**性价比已经超过了90%的同类机场。**
 
 **经过这段时间的测试使用，他家的节点上可以完美注册登录ChatGPT的，大家可以放心订阅。**
 
 #### 通过下面链接注册新用户全员七五折优惠券：
 
-### [Faston 官网链接](https://console.fst-in.com/#/register?code=hg7Xtuoe)
+### [Faston 官网链接](https://portal.link-fst.com/#/register?code=hg7Xtuoe)
 
 - 老板肉身：加拿大
 - 入口ip数量：华为云BGP入口
@@ -64,13 +64,13 @@ ChatGPT注册教程（完整指南）：[ChatGPT注册教程](https://github.com
 
 ## TAG 机场 - 老牌精品翻墙机场
 
-[TAG机场](https://tagss01.pro#/register?invite=d2RtVGgb) 是一家注册在香港的机场，稳定运营了六年，目前线路都是IEPL内网专线不过墙，**稳定性一流，本人主用机场。**
+[TAG机场](https://tagss04.pro/#/auth/d2RtVGgb) 是一家注册在香港的机场，稳定运营了六年，目前线路都是IEPL内网专线不过墙，**稳定性一流，本人主用机场。**
 
 特色：有大量冷门节点，全球92+国家地区，各地家庭宽带IP、原生ip。老板很认真挑选落地节点，基本都是原生（解锁各种流媒体）并且带宽大的才用，高质量的落地，各类型商业宽带与罕见的家庭宽带，非常适合拿来注册登录ChatGPT账号。 **即使不买他家套餐，也非常推荐买156一年的流量包。**
 
 #### 通过下面链接注册新用户全员无门槛9折优惠券：
 
-### [TAG VPN 官网链接](https://tagss01.pro#/register?invite=d2RtVGgb)
+### [TAG VPN 官网链接](https://tagss04.pro/#/auth/d2RtVGgb)
 
 - 开业时间：2018
 - 老板肉身：香港（确定）
