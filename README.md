@@ -1,14 +1,47 @@
+# 机场推荐 SSR/V2ray/Trojan机场测评
+
 ChatGPT注册教程（完整指南）：[ChatGPT注册教程](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
 
 推荐翻墙机场是信息差，不了解的人很容易被推荐到很垃圾的机场。翻墙机场就一句话：**一分钱一分货！**
 
-下面推荐的机场涵盖了高端收费的机场和实惠的机场，可以选择按量付费，支持SS/SSR/V2Ray/Trojan协议，同时也基本支持Clash客户端。
+机场推荐看良心，下面推荐一些值得推荐的机场，这些机场在TG群里也是常被推荐的。价格有贵有便宜，统统都能在 clash 上用！我在 TG 频道主要做机场评测，这里写成博客方便大家查阅。
 
-**推荐的机场老板肉身都是在墙外的，这样相对更安全，跑路的风险也相对较小。**
+**觉得不错的请点个 star，我会保持更新哦！**
 
-通常来说，单价流量较高的机场不会被人们广泛使用，相对会稳定点。价格便宜的机场则用得人会非常多，大家都往死里用。买贵的人又不傻，如果便宜好用他为啥不买便宜的。
+#### 专线机场的优点：
 
-#### 这里是几个值得推荐的支持Shadowsocks(R)、V2ray、Trojan订阅付费机场，同时也支持Clash软件的：
+- 不过墙延迟低，网络波动小。
+- 日常使用体验更顺滑更舒服。
+
+机场比的就是钞能力💰，速度看总带宽，稳定看资源质量，解锁看落地和解锁商是否优秀。带宽大+稳定性高=最重要！
+
+**小贴士：一定要有备份机场!** 如果你经常需要科学上网，千万不要只依赖一个机场。
+
+#### 便宜机场的套路：
+
+- 开始很便宜或者搞超大折扣吸引人，割韭菜后跑路。
+- 使用便宜的月抛线路，成本低但不稳定，随时跑路。
+- 线路多但复用，挂了一条全挂，注意看节点拓扑。
+- 买中转转发的，共用一台机器，一家被打全挂。
+
+多试几家机场你就会发现：便宜机场往往不好用，好用的不便宜！
+
+#### 各平台客户端推荐：
+
+- Windows：Clash For Windows、Clash-verge-rev、V2rayN、FLClash（简单）
+- Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、FLClash（简单）
+- IOS：小火箭Shadowrocket、QuantumultX、Stash、Loon、有钱的买Surge
+- 安卓：ClashMetaforAndroid(CMFA)、FLClash、Surfboard、V2rayNG
+- Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版本
+- 路由器：OpenWRT的OpenClash、passwall
+
+shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard、Singbox内核的和Surge不支持shadowsocksR。
+
+[https://appleidbook.top](http://appleidbook.top?from=18648) 提供独享和租借美区小火箭和Quantumult、Stash、Loon成品号，Apple ID，Netflix全区号，ChatGPT账号、Gmail和Google Voice、iTunes礼品卡、Steam充值卡等！
+
+#### 这些机场都是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实。而且机场老板肉身都是在墙外的，这样相对更安全，跑路的风险也相对较小。
+
+**我觉得好的就推荐，不好的绝对不推荐，自由随性！**
 
 ## WgetCloud 全球加速 – 2023 稳定翻墙机场首选
 
