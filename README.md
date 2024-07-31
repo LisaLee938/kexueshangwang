@@ -71,7 +71,7 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 
 ## 万城 V-city - IEPL全专线高端机
 
-[万城 V-city（万城网络）](https://port01.wc-yz.com/#/register?code=0BnXRJud)是一家运营在温哥华的IEPL全专线高端机场。全域企业级跨境专线，完美支持ChatGPT， Netflix、Disney+ 和 Youtube Premium 等流媒体及UDP游戏加速。4K秒开无视高峰，敏感时期依然稳定，备有备用线路，供不时之需。
+[万城 V-city（万城网络）](https://user.vcsite02.com/#/sign-up?code=0BnXRJud)是一家运营在温哥华的IEPL全专线高端机场。全域企业级跨境专线，完美支持ChatGPT， Netflix、Disney+ 和 Youtube Premium 等流媒体及UDP游戏加速。4K秒开无视高峰，敏感时期依然稳定，备有备用线路，供不时之需。
 
 万城网络的节点覆盖了30多个国家和地区，除了常用的香港、台湾、日本、新加坡、美国节点外，还对小众精品节点进行重点布局 -- 其中包括：马来西亚、菲律宾、韩国、印度、澳大利亚、以色列、加拿大、墨西哥、阿根廷、巴西、智利、英国、法国、德国、俄罗斯、西班牙、瑞典、意大利、荷兰、波兰、南非、土耳其、新西兰、泰国等地区。
 
@@ -79,7 +79,7 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 
 #### 通过下面链接注册新用户全员九折优惠券：
 
-### [万城 V-city官网链接](https://port01.wc-yz.com/#/register?code=0BnXRJud)
+### [万城 V-city官网链接](https://user.vcsite02.com/#/sign-up?code=0BnXRJud)
 
 以下为晚高峰测速：
 
