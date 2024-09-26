@@ -1,4 +1,4 @@
-# 机场推荐 SSR/V2ray/Trojan机场测评 
+# 机场推荐 SSR/V2ray/Trojan机场评测
 
 ChatGPT注册教程（完整指南）：[ChatGPT注册教程](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
 
@@ -43,7 +43,7 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 
 **我觉得好的就推荐，不好的绝对不推荐，自由随性！**
 
-## WgetCloud 全球加速 – 2023 稳定翻墙机场首选
+## WgetCloud 全球加速 – 2024 稳定翻墙机场首选
 
 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 是华为云入口IEPL内网专线机场，原GaCloud，本人主用机场之一。老板已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。
 
@@ -85,30 +85,7 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 
 ![万城网络](https://github.com/user-attachments/assets/d35bb7c2-fcb1-48ea-b1fc-39cdfeac5bd5)
 
-## Faston - 全专线高端机场
 
-[Faston](https://portal.link-fst.com/#/register?code=hg7Xtuoe)是一家运营在加拿大的高端机场，采用IEPL专线，避免长城墙的干扰，具有极高的稳定性，即使在特殊时期也能保持高速稳定，高峰期表现尤为优异，网速领跑同类机场。此外，Faston机场提供50+全球边缘节点，节点丰富。经过一段时间的使用，我认为Faston机场非常出色。最近，Faston机场推出了很多优惠活动，**性价比已经超过了90%的同类机场。**
-
-**经过这段时间的测试使用，他家的节点上可以完美注册登录ChatGPT的，大家可以放心订阅。**
-
-#### 通过下面链接注册新用户全员七五折优惠券：
-
-### [Faston 官网链接](https://portal.link-fst.com/#/register?code=hg7Xtuoe)
-
-- 老板肉身：加拿大
-- 入口ip数量：华为云BGP入口
-- 过境：IEPL内网
-- 落地ip数量： 60+
-- 协议：Shadowsocks
-- 客户端数目：10
-- 付款方式：支付宝、USDT
-- 专门客服：有
-- 流媒体解锁情况：Netflix、Disney+
-- ChatGPT解锁: 全解锁
-- 一键客户端 ： 有
-- 节点国家与地区：中国香港、中国台湾、日本、美国、韩国、新加坡、菲律宾、印度、澳大利亚、新西兰、加拿大、英国、法国、德国、意大利、俄罗斯、土耳其、南非、巴西和阿根廷等超过20个国家和地区的优质线路
-
-![168234275312600_1m9d1lt](https://github.com/xiaoming2028/PAC/assets/54033249/60ab90b8-20c6-4fd8-8175-1913303ce910)
 
 
 ## TAG 机场 - 老牌精品翻墙机场
