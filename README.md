@@ -43,7 +43,7 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 
 **我觉得好的就推荐，不好的绝对不推荐，自由随性！**
 
-## WgetCloud 全球加速 – 2024 稳定翻墙机场首选
+## WgetCloud 全球加速 – 2026 稳定翻墙机场首选
 
 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 是华为云入口IEPL内网专线机场，原GaCloud，本人主用机场之一。老板已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。
 
@@ -68,23 +68,6 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 ![微信截图_20230219105727](https://user-images.githubusercontent.com/125964212/220576524-0c30cc63-98ab-4fad-89c0-10a6984c647e.png)
 
 ![微信截图_20230219111003](https://user-images.githubusercontent.com/125964212/220576570-531d8ecb-3ec5-4e64-b37c-c15698ae0313.png)
-
-## 万城 V-city - IEPL全专线高端机
-
-[万城 V-city（万城网络）](https://user.vcsite04.com/#/sign-up?code=0BnXRJud)是一家运营在温哥华的IEPL全专线高端机场。全域企业级跨境专线，完美支持ChatGPT， Netflix、Disney+ 和 Youtube Premium 等流媒体及UDP游戏加速。4K秒开无视高峰，敏感时期依然稳定，备有备用线路，供不时之需。
-
-万城网络的节点覆盖了30多个国家和地区，除了常用的香港、台湾、日本、新加坡、美国节点外，还对小众精品节点进行重点布局 -- 其中包括：马来西亚、菲律宾、韩国、印度、澳大利亚、以色列、加拿大、墨西哥、阿根廷、巴西、智利、英国、法国、德国、俄罗斯、西班牙、瑞典、意大利、荷兰、波兰、南非、土耳其、新西兰、泰国等地区。
-
-用户可以使用常见的软件如Clash、Shadowrocket、Surge、Quantumult X、Stash等进行订阅支持，使用sing-box需要进行订阅转换。付款方式支持支付宝和USDT加密货币。
-
-#### 通过下面链接注册新用户全员九折优惠券：
-
-### [万城 V-city官网链接](https://user.vcsite04.com/#/sign-up?code=0BnXRJud)
-
-以下为晚高峰测速：
-
-![万城网络](https://github.com/user-attachments/assets/d35bb7c2-fcb1-48ea-b1fc-39cdfeac5bd5)
-
 
 
 
