@@ -2,6 +2,8 @@
 
 ChatGPT注册教程（完整指南）：[ChatGPT注册教程](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
 
+## [Claude Code 防封号指南](https://github.com/LisaLee938/ClaudeCodeFangFeng)
+
 推荐翻墙机场是信息差，不了解的人很容易被推荐到很垃圾的机场。翻墙机场就一句话：**一分钱一分货！**
 
 机场推荐看良心，下面推荐一些值得推荐的机场，这些机场在TG群里也是常被推荐的。价格有贵有便宜，统统都能在 clash 上用！我在 TG 频道主要做机场评测，这里写成博客方便大家查阅。
@@ -99,6 +101,8 @@ shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换�
 以下为晚高峰测速：
 
 ![image](https://github.com/xiaoming2028/PAC/assets/54033249/f180fa73-5e31-44b8-9fdb-7859d33062f2)
+
+
 
 
 购买一个月的机场费用几乎不到一杯奶茶的钱，非常划算。毕竟可以让人看到外面的世界。而且整体而言，买机场比自建好，自建很容易被识别，即使是使用vmess+ws+tls协议的方式也已经不能避免被GFW检测到。
